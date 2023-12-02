@@ -22,7 +22,7 @@ LIME (Local Interpretable Model‐Agnostic Explanations) and SHAP (Shapley Addit
 
 Using SHAP, we were able to see how different aspects affect what a machine learning model looks for when classifying images. Using the watermarked datasets, we were able to see that for the Chef and Doctor sets, the model picked up on the watermarks as a classifier for the images. The Chef set was marked with a diagonal watermark from bottom left to top right, as we see here, the SHAP values show a cross across the images due to the watermark and random horizontal flips. On the Doctor set, there was a watermark at the top of the im‐ age, which is seen with the SHAP values across the second SHAP column below.
 
-![SHAP image]()
+![SHAP image](./SHAP.png)
 
 LIME (Local Interpretable Model‐agnostic Explanations) is a technique used for explaining the predictions of machine learning models by approximating the model’s decision boundary locally around a specific instance. LIME is model‐agnostic, meaning it can be applied to any machine learning model without needing knowledge of the model’s internal structure.
 
