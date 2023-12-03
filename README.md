@@ -1,7 +1,7 @@
 # Leveraging-Explainable-AI
 
 Team Lead: [Rowan White]()  
-Participants: [Aaron Barthwal](), [Khiem Nguyen](https://kotonari.design/), [Laya Srinivas](), [Ram Gudur](), [Sanya Oak]()
+Participants: [Aaron Barthwal](), [Khiem Nguyen](https://kotonari.design/), [Laya Srinivas](), [Ram Gudur](www.linkedin.com/in/ramgudur), [Sanya Oak]()
 
 ## Poster
 ![Poster](./Poster.png)
